@@ -10,7 +10,7 @@ This is a showcase of projects similar to the work I am currently doing in my jo
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| :video_game: [Video Games Sales](https://github.com/katiehuangx/8-Week-SQL-Challenge) | Data analysis, data cleaning, data transformation | We'll compare a dataset of game sales with critic and user reviews to determine whether or not video games have improved as the gaming market has grown. | 
+| :video_game: [Video Games Sales](https://github.com/mihaiishere/Data-Analysis-SQL-Video-Game-Sales) | Data analysis, data cleaning, data transformation | We'll compare a dataset of game sales with critic and user reviews to determine whether or not video games have improved as the gaming market has grown. | 
 
 ***
 
