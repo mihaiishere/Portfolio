@@ -18,5 +18,5 @@ This is a showcase of projects similar to the work I am currently doing in my jo
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| :briefcase: [Store Sales Analysis](https://github.com/katiehuangx/Super-Store-Analysis/blob/main/Super_Store_Analysis.ipynb) | EDA | Analysis of sales data to find out highest revenue and profit product categories. | pandas, matplotlib, seaborn |
+| :briefcase: [Store Sales Analysis](https://github.com/mihaiishere/Sales-Analysis/blob/main/StoreSales.ipynb) | EDA | Analysis of sales data to find out highest revenue and profit product categories. | pandas, matplotlib, seaborn |
 ***
